@@ -1,0 +1,54 @@
+.parent{
+    width: 100%;
+    height: 560px;
+    border: 2px solid red;
+    align-items: center;
+    
+}
+.log{
+    /*background: black;*/
+    width: 450px;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 100px;
+    height: 300px;
+    opacity: 0.8;
+}
+.log p{
+    /*color: white;*/
+    font-size: 40px;
+    font-weight: bold;
+}
+.email{
+    width: 200px;
+    height: 100px;
+    
+}
+.email input[type=email]{
+    height: 48px;
+    width: 314px;
+    margin-bottom: 20px;
+}
+.email input[type=password]{
+    height: 48px;
+    width: 314px;
+    margin-bottom: 20px;
+}
+.email button{
+    width: 322px;
+    height: 48px;
+    background: red;
+    color: white;
+    font-size: 15px;
+}
+.p2{
+    margin-top: 150px;
+}
+.p2 p{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
