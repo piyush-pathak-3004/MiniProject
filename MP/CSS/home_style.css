@@ -38,9 +38,11 @@ body{
 .logo{
     margin-right: auto;
 }
-.logo img{
-    width: 100px;
-    margin: 10px;
+.logo h1{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: red;
 }
 .sign{
     padding: 10px 0px 5px;
